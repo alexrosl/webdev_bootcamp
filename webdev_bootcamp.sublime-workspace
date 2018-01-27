@@ -1,0 +1,637 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fol",
+				"float"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"num",
+				"numberSquares\t(num)"
+			],
+			[
+				"nu",
+				"numberSquares\t(num)"
+			],
+			[
+				"mode",
+				"modeButtons\t(?)"
+			],
+			[
+				"quer",
+				"querySelectorAll"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"color",
+				"colors\t[]"
+			],
+			[
+				"pic",
+				"pickedColor\t(str)"
+			],
+			[
+				"pick",
+				"pickedColor\t(str)"
+			],
+			[
+				"pci",
+				"pickedColor\t(str)"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"me",
+				"messageDisplay\t(?)"
+			],
+			[
+				"cli",
+				"clickedColor\t(?)"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"re",
+				"reset()"
+			],
+			[
+				"wi",
+				"winningScore\t(num)"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"reset",
+				"resetButton\t(?)"
+			],
+			[
+				"list",
+				"listTodos"
+			],
+			[
+				"u",
+				"unset"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"actva",
+				"activation_key"
+			],
+			[
+				"activa",
+				"activation_key"
+			],
+			[
+				"Re",
+				"RegisterView"
+			],
+			[
+				"is",
+				"is_following_user_ids"
+			],
+			[
+				"de",
+				"default_user_profile"
+			],
+			[
+				"get_o",
+				"get_object"
+			],
+			[
+				"get_",
+				"get_object"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"Res",
+				"Restaurant"
+			],
+			[
+				"Item",
+				"ItemForm"
+			],
+			[
+				"resta",
+				"restaurants"
+			],
+			[
+				"rest",
+				"restaurants"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"as",
+				"as_view"
+			],
+			[
+				"RE",
+				"RestaurantCreateView"
+			],
+			[
+				"restaurant_",
+				"restaurant_createview"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"va",
+				"validators"
+			],
+			[
+				"clea",
+				"cleaned_data"
+			],
+			[
+				"R",
+				"RestaurantCreateForm"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"cat",
+				"category__iexact"
+			],
+			[
+				"aut",
+				"auto_now_add"
+			],
+			[
+				"error",
+				"error_username"
+			],
+			[
+				"sign",
+				"signup-form"
+			],
+			[
+				"sin",
+				"signup-form"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"E",
+				"EMAIL_RE"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"last",
+				"last_modified"
+			],
+			[
+				"wik",
+				"WikiHandler"
+			],
+			[
+				"pw",
+				"pw_hash"
+			],
+			[
+				"make",
+				"make_pw_hash"
+			],
+			[
+				"set",
+				"set_secure_cookie"
+			],
+			[
+				"sec",
+				"secure_val"
+			],
+			[
+				"Wik",
+				"WikiHandler"
+			],
+			[
+				"coo",
+				"cookie_val"
+			],
+			[
+				"Blo",
+				"BlogHandler"
+			],
+			[
+				"si",
+				"signup-form"
+			],
+			[
+				"Blog",
+				"BlogHandler"
+			],
+			[
+				"St",
+				"StringProperty"
+			],
+			[
+				"jinj",
+				"jinja_env"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\ntempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\nquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\nconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\ncillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\nproident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+			"settings":
+			{
+				"buffer_size": 446,
+				"line_ending": "Unix",
+				"name": "Lorem ipsum dolor sit amet, consectetur adipisicin"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 97.0,
+		"last_filter": "install package",
+		"selected_items":
+		[
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: Inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 384.0,
+		"history":
+		[
+			"info",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/alexey/Dev/webdev bootcamp",
+		"/home/alexey/Dev/webdev bootcamp/sounds"
+	],
+	"file_history":
+	[
+		"/home/alexey/Dev/webdev bootcamp/circles.css",
+		"/home/alexey/Dev/webdev bootcamp/15_circles.html",
+		"/home/alexey/Dev/webdev bootcamp/14_todolist.html",
+		"/home/alexey/Dev/webdev bootcamp/assets/js/todos.js",
+		"/home/alexey/Dev/webdev bootcamp/assets/css/todos.css",
+		"/home/alexey/Dev/webdev bootcamp/effects.js",
+		"/home/alexey/Dev/webdev bootcamp/13_jquery_advanced.html",
+		"/home/alexey/Dev/webdev bootcamp/colorGame.css",
+		"/home/alexey/Dev/webdev bootcamp/11_colorgame.html",
+		"/home/alexey/Dev/webdev bootcamp/colorGame.js",
+		"/home/alexey/Dev/webdev bootcamp/12_jquery_intro.html",
+		"/home/alexey/Dev/webdev bootcamp/domadv2.js",
+		"/home/alexey/Dev/webdev bootcamp/10_DOMadvanced2.html",
+		"/home/alexey/Dev/webdev bootcamp/domadv.js",
+		"/home/alexey/Dev/webdev bootcamp/domadv.css",
+		"/home/alexey/Dev/webdev bootcamp/09_DOMadvanced.html",
+		"/home/alexey/Dev/webdev bootcamp/08_DOM.html",
+		"/home/alexey/Dev/webdev bootcamp/07_javascript_set.html",
+		"/home/alexey/Dev/webdev bootcamp/problemset11.js",
+		"/home/alexey/Dev/webdev bootcamp/list.js",
+		"/home/alexey/Dev/webdev bootcamp/06_javascript_todolist.html",
+		"/home/alexey/Dev/webdev bootcamp/05_javascript.html",
+		"/home/alexey/Dev/webdev bootcamp/script1.js",
+		"/home/alexey/Dev/webdev bootcamp/app4.css",
+		"/home/alexey/Dev/webdev bootcamp/04_bootstrap_2.html",
+		"/home/alexey/Dev/webdev bootcamp/bootstrap.html",
+		"/home/alexey/Dev/webdev bootcamp/bootstrap-3.3.7-dist/css/bootstrap.css",
+		"/home/alexey/Dev/webdev bootcamp/bootstyle.css",
+		"/home/alexey/Dev/webdev bootcamp/bootstrap.css",
+		"/home/alexey/Dev/webdev bootcamp/style.css",
+		"/home/alexey/Dev/webdev bootcamp/secondPage.html",
+		"/home/alexey/Dev/webdev bootcamp/firstPage.html",
+		"/home/alexey/Dev/webdev bootcamp/app.css",
+		"/home/alexey/Dev/cfehome/src/templates/snippets/nav.html",
+		"/home/alexey/Dev/cfehome/src/muypicky/settings/base.py",
+		"/home/alexey/Dev/cfehome/src/profiles/templates/profiles/snippet/follow_form.html",
+		"/home/alexey/Dev/cfehome/src/profiles/templates/profiles/user.html",
+		"/home/alexey/Dev/cfehome/src/templates/registration/register.html",
+		"/home/alexey/Dev/cfehome/src/profiles/forms.py",
+		"/home/alexey/Dev/cfehome/src/muypicky/urls.py",
+		"/home/alexey/Dev/cfehome/src/profiles/views.py",
+		"/home/alexey/Dev/cfehome/src/menus/templates/menus/detail-update.html",
+		"/home/alexey/Dev/cfehome/src/profiles/utils.py",
+		"/home/alexey/Dev/cfehome/src/profiles/models.py",
+		"/home/alexey/Dev/cfehome/src/menus/models.py",
+		"/home/alexey/Dev/cfehome/src/cfehome/urls.py",
+		"/home/alexey/Dev/cfehome/src/menus/admin.py",
+		"/home/alexey/Dev/cfehome/src/cfehome/settings/base.py",
+		"/home/alexey/Dev/cfehome/src/restaurants/validators.py",
+		"/home/alexey/Dev/cfehome/src/restaurants/forms.py",
+		"/home/alexey/Dev/cfehome/src/templates/form.html",
+		"/home/alexey/Dev/cfehome/src/restaurants/views.py",
+		"/home/alexey/Dev/cfehome/src/menus/views.py",
+		"/home/alexey/Dev/cfehome/src/menus/templates/menus/home-feed.html",
+		"/home/alexey/Dev/cfehome/src/profiles/templates/profiles/register.html",
+		"/home/alexey/Dev/cfehome/src/profiles/shell_commands.py",
+		"/home/alexey/Dev/cfehome/src/profiles/admin.py",
+		"/home/alexey/Dev/cfehome/src/menus/templates/menus/item_list.html",
+		"/home/alexey/Dev/cfehome/src/menus/urls.py",
+		"/home/alexey/Dev/cfehome/src/menus/forms.py",
+		"/home/alexey/Dev/cfehome/src/restaurants/templates/restaurants/restaurantlocation_list.html",
+		"/home/alexey/Dev/cfehome/src/restaurants/models.py",
+		"/home/alexey/Dev/cfehome/src/restaurants/urls.py",
+		"/home/alexey/Dev/cfehome/src/restaurants/templates/restaurants/detail-update.html",
+		"/home/alexey/Dev/cfehome/src/templates/snippets/form-snippet.html",
+		"/home/alexey/Dev/cfehome/src/menus/templates/menus/item_detail.html",
+		"/home/alexey/Dev/cfehome/src/profiles/urls.py",
+		"/home/alexey/Dev/cfehome/src/restaurants/templates/registration/login.html",
+		"/home/alexey/Dev/cfehome/src/restaurants/templates/restaurants/form.html",
+		"/home/alexey/Dev/cfehome/src/restaurants/utils.py",
+		"/home/alexey/Dev/cfehome/src/restaurants/templates/restaurants/restaurantlocation_detail.html",
+		"/home/alexey/Dev/cfehome/lib/python3.6/site-packages/django/views/generic/detail.py",
+		"/home/alexey/Dev/cfehome/lib/python3.6/site-packages/django/views/generic/base.py",
+		"/home/alexey/Dev/cfehome/src/restaurants/admin.py",
+		"/home/alexey/Dev/cfehome/src/restaurants/restaurants/restaurants_list.html",
+		"/home/alexey/Dev/cfehome/src/templates/contact.html",
+		"/home/alexey/Dev/cfehome/src/templates/home.html",
+		"/home/alexey/Dev/cfehome/src/cfehome/settings/__init__.py",
+		"/home/alexey/Dev/cfehome/src/templates/base.html",
+		"/home/alexey/Dev/cfehome/src/templates/about.html",
+		"/home/alexey/Dev/cfehome/src/templates/snippets/sidebar.html",
+		"/home/alexey/Dev/cfehome/src/templates/snippets/js.html",
+		"/home/alexey/Dev/cfehome/src/templates/snippets/css.html",
+		"/home/alexey/Dev/cfehome/lib/python3.5/site-packages/django/contrib/gis/gdal/geomtype.py",
+		"/home/alexey/Dev/cfehome/src/cfehome/settings/production.py",
+		"/home/alexey/Dev/cfehome/src/manage.py",
+		"/home/alexey/Dev/cfehome/src/requirements.txt",
+		"/home/alexey/GoogleAppProjects/hello_world/classHomeWorks/app.yaml",
+		"/home/alexey/GoogleAppProjects/hello_world/finalExam/app.yaml",
+		"/home/alexey/GoogleAppProjects/hello_world/finalExam/templates/login-form.html",
+		"/home/alexey/GoogleAppProjects/hello_world/finalExam/templates/newpage.html",
+		"/home/alexey/GoogleAppProjects/hello_world/finalExam/wiki.py",
+		"/home/alexey/GoogleAppProjects/hello_world/finalExam/templates/front.html",
+		"/home/alexey/GoogleAppProjects/hello_world/finalExam/templates/signup-form.html",
+		"/home/alexey/GoogleAppProjects/hello_world/finalExam/templates/wikipage.html",
+		"/home/alexey/GoogleAppProjects/hello_world/finalExam/templates/permalink.html",
+		"/home/alexey/GoogleAppProjects/hello_world/finalExam/templates/base.html",
+		"/home/alexey/GoogleAppProjects/hello_world/classHomeWorks/blog.py",
+		"/home/alexey/Downloads/hw4/blog.py",
+		"/home/alexey/GoogleAppProjects/hello_world/app.yaml",
+		"/home/alexey/GoogleAppProjects/hello_world/templates/login-form.html",
+		"/home/alexey/GoogleAppProjects/hello_world/blog.py",
+		"/home/alexey/GoogleAppProjects/hello_world/asciichan.py",
+		"/home/alexey/GoogleAppProjects/hello_world/Templates/front.html",
+		"/home/alexey/GoogleAppProjects/hello_world/template.py",
+		"/home/alexey/GoogleAppProjects/hello_world/Templates/shopping_list.html",
+		"/home/alexey/GoogleAppProjects/for_experiments/app.yaml",
+		"/home/alexey/GoogleAppProjects/for_experiments/main.py",
+		"/home/alexey/GoogleAppProjects/for_experiments/main.html",
+		"/home/alexey/GoogleAppProjects/hello_world/main.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hard",
+			"hardBtn",
+			"cat",
+			"restaurant_detailview",
+			"',\n",
+			"hexdigest",
+			"digest",
+			"html",
+			"front",
+			"visits"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								446,
+								446
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Lorem ipsum dolor sit amet, consectetur adipisicin",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "webdev_bootcamp.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dev/cfehome/cfehome.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
